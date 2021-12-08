@@ -35,3 +35,7 @@ switch(operator) {
         break;
 }
 };
+
+
+// to stop
+// clearInterval(intervalId);
